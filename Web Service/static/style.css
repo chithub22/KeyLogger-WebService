@@ -1,0 +1,118 @@
+.container-animatio{
+    animation: transitionIn 0.75s;
+
+}
+body {
+  margin: 0;
+  background-color: #e9ecef;
+  
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  max-width: 20%;
+  background-color: #7E4EFC;
+  position: fixed;
+  height: 120%;
+  overflow: auto;
+  border-radius: 20px;
+  transform: translateX(-20%);
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 20px 16px;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 20px;
+}
+
+li a.active {
+  background-color: #6838EC;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  transition: 300ms;
+  background-color: #6838EC;
+  color: white;
+  transform: translateX(30px);
+  font-size: 20px;
+}
+
+.logo
+{
+
+  height: auto;
+  width: 90%;
+  position: relative;
+  left: 13%;
+
+}
+
+.font-text-site{
+  font-family: 'Ubuntu Mono', monospace;
+  position: relative;
+  width: 16.5em;
+  margin: 0 auto;
+  font-size: 180%;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 2%;
+  }
+
+button {
+  font-family: 'Ubuntu Mono', monospace;
+  background: transparent;
+  border: #7E4EFC;
+  border-style: solid;
+  padding: 0.9rem 2rem;
+  position: absolute;
+  font-size: 20px;
+  color: black;
+  display: block;
+  margin-left: 32%;
+  margin-top: 2%;
+  left: 10%;
+}
+button:hover {
+  transition: 200ms;
+  display: block;
+  background-color: #7E4EFC;
+  color: white;
+}
+
+.box-welcome{
+  background-color: white;
+  width:auto;
+  border-radius: 30px;
+  position: sticky;
+  padding-bottom: 15%;
+  left: 30%;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12) 
+}
+
+.log-text
+{
+    font-family: 'Ubuntu Mono', monospace;
+    text-align:center;
+    font-size: 20px;
+}
+
+.log-box
+{
+    background-color: white;
+  width:50%;
+  border-radius: 20px;
+  position: sticky;
+  padding-bottom: 60%;
+  left: 50%;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12) 
+}
+
