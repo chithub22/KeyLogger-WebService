@@ -1,7 +1,7 @@
 # KeyLogger-WebService
 "KeyLogger-WebService" Is a Keylogger Write In python. 
 <br>
-<h4>OS:Only Linux</h4>
+<h4>OS:Linux</h4>
 <h1>INSTALL</h1>
 execute with python3 "setup.py".
 <br>
