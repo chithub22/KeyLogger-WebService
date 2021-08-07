@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="it-IT">
+   <meta name="viewport" content="width=device-width, initial-scale=2.0">
+   <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+   <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
+   <head>
+   </head>
+   <body>
+      <ul>
+         <div class="container-animation">
+            <img src="{% static 'logo.png' %}"class="logo">
+            <li><a href="/">Home</a>
+            <li><a href="">Spy Active</a>
+            <li><a href="https://www.instagram.com/pietro.mp4">Instagram</a>
+            <li><a href="https://github.com/0xFreddox">Github</a>
+      </ul>
+      <div style="margin-left:25%;padding:1px 16px;height:100px;">         
+      <div class="log-box">
+         <p class="log-text">{{ result  }}</p>
+      </div>
+      </div>
+      </div>
+   </body>
+</html>
