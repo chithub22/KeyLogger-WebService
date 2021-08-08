@@ -1,5 +1,7 @@
 # KeyLogger-WebService
-![alt text](https://github.com/0xFreddox/KeyLogger-WebService/blob/main/static/logo.png)
+<p align="center">
+  <img width="370" height="600" src="https://github.com/0xFreddox/KeyLogger-WebService/blob/main/static/logo.png">
+</p>
 <br>
 "KeyLogger-WebService" Is a Keylogger Write In python.
 When you Inject the file on a computer
