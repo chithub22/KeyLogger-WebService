@@ -1,7 +1,10 @@
 # KeyLogger-WebService
 ![alt text](https://github.com/0xFreddox/KeyLogger-WebService/blob/main/static/logo.png)
 <br>
-"KeyLogger-WebService" Is a Keylogger Write In python. 
+"KeyLogger-WebService" Is a Keylogger Write In python.
+When you Inject the file on a computer
+<br>
+once the file is opened on the computer, everything is recorded and sent via ftp to a server and displayed on the site being hosted
 <br>
 <h4>OS:Linux</h4>
 <h1>INSTALL</h1>
