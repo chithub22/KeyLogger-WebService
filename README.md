@@ -10,7 +10,8 @@ once the file is opened on the computer, everything is recorded and sent via ftp
 <br>
 <h4>OS:Linux</h4>
 <h1>INSTALL</h1>
-execute with python3 "setup.py".
+execute with 
+<code>python3 setup.py</code>.
 <br>
 This script install all additcion for a correct execution of the service.
 <h1>SETTINGS</h1>
