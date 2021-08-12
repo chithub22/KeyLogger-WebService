@@ -15,9 +15,7 @@ execute with
 <br>
 This script install all additcion for a correct execution of the service.
 <h1>HOW TO USE IT</h1>
-Install Python in your Device and execute "setup.py".
-<br>
-follow what is written. everything will be installed automatically.(Execute all how root)
+after start setup.py
 <br>
 When The Web Server and FTP has been execute correctly,
 <br>
