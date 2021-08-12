@@ -14,11 +14,12 @@ execute with
 <code>python3 setup.py</code>.
 <br>
 This script install all additcion for a correct execution of the service.
-<h1>SETTINGS</h1>
-edit "Clientlogger.py" 
-<br>
-and enter Your IP,Username And Password to connect the script to FTP Server
-<br>
+<h1>HOW TO USE IT</h1>
+Install Python in your Device and execute "setup.py".
+follow what is written. everything will be installed automatically.(Execute all how root)
+When The Web Server and FTP has been execute correctly,
+edit Clientlogger.py and enter Your IP,Username And Password to connect the script to FTP Server.
+Inject ClientLogger.py in another Computer. And Go to "Spy active",All the log will be printend in the Box you Seeing.
 <br>
 <strong>it is currently not 100% complete, but it is still usable for your own tests.</Strong>
 <br>
