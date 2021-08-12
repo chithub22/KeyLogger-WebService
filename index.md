@@ -8,8 +8,9 @@
 ## How Use it
 Install Python in your Device and execute "setup.py".
 <br>
-follow what is written. It's all automatic.(Execute all how root)
+follow what is written. everything will be installed automatically.(Execute all how root)
 When The Web Server and FTP has been execute correctly,Inject "ClientLogger.py" in another Computer.
+And Go to "Spy active",All the log will be printend in the Box you Seeing
 ## V-0.2Alpha
 <ul>
   <li>Only 1 sessions supported</li>
