@@ -13,6 +13,8 @@ once the file is opened on the computer, everything is recorded and sent via ftp
 execute with 
 <code>python3 setup.py</code>.
 <br>
+<img src="https://github.com/0xFreddox/0xFreddox/blob/main/2021-08-30-21-42-13_Trim.gif">
+<br>
 This script install all additcion for a correct execution of the service.
 <h1>HOW TO USE IT</h1>
 after start setup.py
