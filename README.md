@@ -8,7 +8,7 @@ When you Inject the file on a computer
 <br>
 once the file is opened on the computer, everything is recorded and sent via ftp to a server and displayed on the site being hosted
 <br>
-<h4>OS:Linux</h4>
+<h4>OS:Linux/Windows</h4>
 <h1>INSTALL</h1>
 execute with 
 <code>python3 setup.py</code>.
